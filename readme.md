@@ -23,9 +23,3 @@ Each section has a series of prompts written in inline-comments. Write the JavaS
 **IMPORTANT**: Make sure to use the `var` keyword for **ALL** variable declarations (for testing purposes). **DO NOT** use `const` or `let`.
 
 **DO NOT** modify the files in the `/test/` folder.
-
-## Submission
-
-Fork this repository and clone your fork locally. Commit as you go. When you are finished, push to GitHub.
-
-**Wait until the end of the hour to make your Pull Request**
