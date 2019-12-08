@@ -25,4 +25,6 @@ Each section has a series of prompts written in inline-comments. Write the JavaS
 **DO NOT** modify the files in the `/test/` folder.
 
 ## BONUS
-If you finished early, then you can work on this [repo](https://git.generalassemb.ly/seir-129/w03d05-fundamentals-review-and-project-1/tree/master/am-lab)
+If you finished early, then you can go through this tutorial: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+Feel free to try to compile and execute the code snippets from this tutorial in your code editor!
