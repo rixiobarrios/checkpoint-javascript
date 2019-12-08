@@ -23,3 +23,6 @@ Each section has a series of prompts written in inline-comments. Write the JavaS
 **IMPORTANT**: Make sure to use the `var` keyword for **ALL** variable declarations (for testing purposes). **DO NOT** use `const` or `let`.
 
 **DO NOT** modify the files in the `/test/` folder.
+
+## BONUS
+If you finished early, then you can work on this [repo](https://git.generalassemb.ly/seir-129/w03d05-fundamentals-review-and-project-1/tree/master/am-lab)
